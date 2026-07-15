@@ -17,7 +17,7 @@ El objetivo principal del proyecto fue profundizar conocimientos en arquitectura
 
 ---
 
-## 🛠 Technologies
+## 🛠 Tecnologias
 
 - .NET 8
 - ASP.NET Core Web API
