@@ -1,10 +1,15 @@
 # 🍹 Bebidas Store API
 
-![.NET](https://img.shields.io/badge/.NET-9.0-purple)
-![C#](https://img.shields.io/badge/C%23-Backend-blue)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4)
+![.NET](https://img.shields.io/badge/.NET-8-512BD4?logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8-5C2D91?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-8-512BD4)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![AutoMapper](https://img.shields.io/badge/AutoMapper-Mapping-blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![xUnit](https://img.shields.io/badge/xUnit-Testing-green)
 
 API REST desarrollada con **ASP.NET Core** para la gestión de usuarios y bebidas, aplicando **Clean Architecture**, principios **SOLID** y buenas prácticas de desarrollo backend.
 
@@ -12,22 +17,23 @@ El objetivo principal del proyecto fue profundizar conocimientos en arquitectura
 
 ---
 
-## 🚀 Tecnologías
+## 🛠 Technologies
 
+- .NET 8
 - ASP.NET Core Web API
 - C#
-- Entity Framework Core
+- Entity Framework Core 8
 - SQL Server
+- AutoMapper
 - Clean Architecture
-- SOLID
+- SOLID Principles
 - Value Objects
 - Dependency Injection
-- AutoMapper
-- Middleware
-- xUnit
+- Global Exception Handling Middleware
+- Swagger / OpenAPI
 - Docker
-- Swagger (OpenAPI)
 - Microsoft Azure
+- xUnit
 - 
 ## 🧠 Conceptos aplicados
 
