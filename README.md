@@ -1,5 +1,12 @@
 # 🍹 Bebidas Store API
 
+![.NET](https://img.shields.io/badge/.NET-9.0-purple)
+![C#](https://img.shields.io/badge/C%23-Backend-blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 API REST desarrollada con **ASP.NET Core** para la gestión de usuarios y bebidas, aplicando **Clean Architecture**, principios **SOLID** y buenas prácticas de desarrollo backend.
 
 El objetivo principal del proyecto fue profundizar conocimientos en arquitectura de software, diseño de dominio, pruebas unitarias, contenedorización y despliegue en la nube.
