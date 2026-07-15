@@ -34,7 +34,7 @@ El objetivo principal del proyecto fue profundizar conocimientos en arquitectura
 - Docker
 - Microsoft Azure
 - xUnit
-- 
+  
 ## 🧠 Conceptos aplicados
 
 Durante el desarrollo se implementaron diferentes patrones y buenas prácticas de desarrollo backend.
