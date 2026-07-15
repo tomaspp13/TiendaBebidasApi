@@ -36,7 +36,7 @@ Durante el desarrollo se implementaron diferentes patrones y buenas prácticas d
 - Middleware para manejo centralizado de errores
 - Separación de responsabilidades
 - Arquitectura desacoplada
-- ## 🗄 Base de datos
+  ## 🗄 Base de datos
 
 La aplicación utiliza **SQL Server** como motor de base de datos mediante **Entity Framework Core**.
 
