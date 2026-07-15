@@ -4,12 +4,12 @@ namespace Aplication.Commands.BebidaCommands.ModificarBebida
 {
     public class ModificarBebidaCommand : IRequest
     {
-        public Guid Id { get; }
-        public string Nombre { get; }
-        public float Cantidad { get; }
-        public float Valor { get; }
-        public string Moneda {  get; }
-        public string NombreBuscado {  get; }
+        public Guid Id { get; set; }
+        public string Nombre { get; set; }
+        public float Cantidad { get; set; }
+        public float Valor { get; set; }
+        public string Moneda {  get; set; }
+        public string NombreBuscado {  get; set; }
         public ModificarBebidaCommand(string nombre, float cantidad, float valor, string moneda, string nombreBuscado)
         {
             Nombre = nombre;

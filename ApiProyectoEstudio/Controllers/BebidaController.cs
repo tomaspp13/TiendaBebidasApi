@@ -27,7 +27,7 @@ namespace ApiProyectoEstudio.Controllers
         }
 
         [HttpPut("EditarBebida/{nombre}")]
-        public async Task<IActionResult> EditarBebida(string nombre,[FromBody] ModificarBebidaCommand request)
+        public async Task<IActionResult> EditarBebida(string nombre,[FromBody] ModificarBebidaRequest request)
         {
             await _mediatR.Send(new ModificarBebidaCommand(request.Nombre,request.Cantidad,request.Valor,request.Moneda,nombre));
             return Ok();
